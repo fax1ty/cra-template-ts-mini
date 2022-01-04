@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "name": "cra-template-ts-mini",
+  "name": "@fax1ty/cra-template-ts-mini",
   "description": "Minimal CRA template with Typescript support",
   "author": {
     "name": "Artemiy Davydov",
