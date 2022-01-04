@@ -1,16 +1,13 @@
 {
   "version": "1.0.0",
-  "name": "@fax1ty/cra-template-ts-mini",
+  "name": "cra-template-ts-mini",
   "description": "Minimal CRA template with Typescript support",
   "author": {
     "name": "Artemiy Davydov",
     "email": "fax1ty.ru@gmail.com"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/fax1ty/cra-template-ts-mini"
-  },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/fax1ty"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
   }
 }
